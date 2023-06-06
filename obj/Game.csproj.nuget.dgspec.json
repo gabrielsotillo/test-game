@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\github\\test-game\\Game.csproj": {}
+    "C:\\Programming\\GitHub\\test-game\\Game.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\github\\test-game\\Game.csproj": {
+    "C:\\Programming\\GitHub\\test-game\\Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\github\\test-game\\Game.csproj",
+        "projectUniqueName": "C:\\Programming\\GitHub\\test-game\\Game.csproj",
         "projectName": "Game",
-        "projectPath": "C:\\Programming\\github\\test-game\\Game.csproj",
+        "projectPath": "C:\\Programming\\GitHub\\test-game\\Game.csproj",
         "packagesPath": "C:\\Users\\gsoti\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\github\\test-game\\obj\\",
+        "outputPath": "C:\\Programming\\GitHub\\test-game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gsoti\\AppData\\Roaming\\NuGet\\NuGet.Config"

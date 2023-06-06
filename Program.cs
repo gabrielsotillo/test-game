@@ -6,8 +6,9 @@
         
         while(true){
 
-            menuOption = Console.ReadLine();
             Console.WriteLine("1. Jugar\n2. Salir");
+            menuOption = Console.ReadLine();
+            Console.Clear();
             if (menuOption == "1"){
                 break;
             }
