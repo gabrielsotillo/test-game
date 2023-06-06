@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\C#\\Game\\Game.csproj",
+      "projectUniqueName": "C:\\Programming\\github\\test-game\\Game.csproj",
       "projectName": "Game",
-      "projectPath": "C:\\Programming\\C#\\Game\\Game.csproj",
+      "projectPath": "C:\\Programming\\github\\test-game\\Game.csproj",
       "packagesPath": "C:\\Users\\gsoti\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\C#\\Game\\obj\\",
+      "outputPath": "C:\\Programming\\github\\test-game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gsoti\\AppData\\Roaming\\NuGet\\NuGet.Config"

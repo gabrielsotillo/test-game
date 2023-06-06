@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5xs8+gixAyFm7YYLgEONn+NI0sWgimcUa2qGc0a3Yxub5XMg0MgNtBCZNue3YNaeMMTURNTLdUYFm/ygu+XAxQ==",
+  "dgSpecHash": "NdpcI/zuToylT9r50bMGPZqQeRm6nNOrVj9FSF7sbGOsrJfKX3M6EkanQWVI5uqqyMbYtMxr1F7sSmeD1nk+TA==",
   "success": true,
-  "projectFilePath": "C:\\Programming\\C#\\Game\\Game.csproj",
+  "projectFilePath": "C:\\Programming\\github\\test-game\\Game.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
